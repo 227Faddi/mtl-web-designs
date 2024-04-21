@@ -15,6 +15,14 @@
 /* //////////////////////////////// */
 /* MY CHANGES */
 /* //////////////////////////////// */
+li{
+  list-style-type: none;
+}
+
+
+.card-max-width{
+  max-width: 500px;
+}
 
 /*  BACKGROUNDS */
 main{
@@ -44,12 +52,18 @@ main{
   .svg-animations {
     height: 7rem;
   }
+  #price-section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1.5rem;
+  }
 }
 
 @media (min-width: 992px){
   .svg-animations {
     height: 8rem;
   }
+
 }
 
 /* BUTTONS */
@@ -98,7 +112,8 @@ font-size: 2.5em;
 position: relative;
 }
 
-.contactForm-max{
+.contactForm-max,
+#pricing-section{
 max-width: 600px !important; 
 }
 
@@ -131,7 +146,7 @@ height: 79px;
 }
 
 .wave-opa-top .shape-fill {
-fill: #FFFFFF;
+fill: #ffffff60;
 }
 
 .wave-opa-bottom {
@@ -152,7 +167,7 @@ height: 79px;
 }
 
 .wave-opa-bottom .shape-fill {
-fill: #FFFFFF;
+fill: #ffffff60;
 }
 /* -------------------------------------------------------------------- */
 
@@ -246,6 +261,8 @@ fill: #FFFFFF;
 }
 
 body {
+  /* PADDING TOP TO LEAVE SPACE FOR THE NAV */
+  padding-top: 72px;
   margin: 0;
   font-family: var(--bs-body-font-family);
   font-size: var(--bs-body-font-size);
@@ -4989,8 +5006,7 @@ textarea.form-control-lg {
   padding: var(--bs-list-group-item-padding-y) var(--bs-list-group-item-padding-x);
   color: var(--bs-list-group-color);
   text-decoration: none;
-  background-color: var(--bs-list-group-bg);
-  border: var(--bs-list-group-border-width) solid var(--bs-list-group-border-color);
+  /* REMOVED BACKGROUND COLOR AND BORDER */
 }
 .list-group-item:first-child {
   border-top-left-radius: inherit;
