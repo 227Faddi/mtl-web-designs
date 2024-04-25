@@ -3,7 +3,7 @@
   "Info": "Info",
   "Projects": "Projets",
   "Contact": "Contact",
-  "<a class=\"nav-link\" draggable=\"true\" href=\"http://mtlwebdesigns.com?lng=fr\">FR</a>" : "<a class=\"nav-link\" href=\"?lng=en\">EN</a>",
+  "<a class=\"nav-link\" draggable=\"true\" href=\"http://mtlwebdesigns.com/?lng=fr\">FR</a>" : "<a class=\"nav-link\" href=\"?lng=en\">EN</a>",
 
 
   "Design · Development · Seo" : "Design · Développement · Seo",
