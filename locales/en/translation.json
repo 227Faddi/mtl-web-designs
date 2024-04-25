@@ -3,7 +3,6 @@
     "Info" : "Info",
     "Projects" : "Projects",
     "Contact": "Contact",
-    "<a class=\"nav-link\" href=\"?lng=fr\">French</a>" : "<a class=\"nav-link\" href=\"?lng=fr\">French</a>",
 
 
     "Design · Development · Seo" : "Design · Development · Seo",
@@ -11,7 +10,7 @@
     "Design and Development" : "Design and Development",
     "Contact Us" : "Contact Us",
     "Pricing" : "Pricing",
-    "main-image-alt" : "main-image-alt",
+    "a mockup of a website on computer desktop and phone" : "a mockup of a website on computer desktop and phone",
 
 
     "What We Do" : "What We Do",
@@ -37,7 +36,6 @@
     "Our Pricing" : "Our Pricing",
 
     "Monthly" : "Monthly",
-    "$130" : "$130",
     "CAD / Month" : "CAD / Month",
     "Up to <strong class=\"primary-text\">5 Pages</strong>" : "Up to <strong class=\"primary-text\">5 Pages</strong>",
     "Unlimited <strong class=\"primary-text\">Edits</strong>" : "Unlimited <strong class=\"primary-text\">Edits</strong>",
@@ -46,14 +44,12 @@
 
 
     "Lump Sum" : "Lump Sum",
-    "$1500" : "$1500",
     "CAD" : "CAD",
 
 
     "Hourly" : "Hourly",
-    "$30" : "$30",
     "CAD / Hour" : "CAD / Hour",
-      "<strong class=\"primary-text\">Added </strong>Features" :   "<strong class=\"primary-text\">Added </strong>Features",
+    "<strong class=\"primary-text\">Added </strong>Features" :   "<strong class=\"primary-text\">Added </strong>Features",
     "Project <strong class=\"primary-text\">Modifications</strong>" : "Project <strong class=\"primary-text\">Modifications</strong>",
     "<strong class=\"primary-text\">Consultation </strong>Services" : "<strong class=\"primary-text\">Consultation </strong>Services",
     "<strong class=\"primary-text\">SEO</strong> Optimization" : "<strong class=\"primary-text\">SEO</strong> Optimization",

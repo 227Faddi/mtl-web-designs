@@ -1,0 +1,68 @@
+{
+    "Home" : "Home",
+    "Info" : "Info",
+    "Projects" : "Portfolio",
+    "Contact": "Contatti",
+    "<a class=\"nav-link\" draggable=\"true\" href=\"http://mtlwebdesigns.com?lng=it\">IT</a>" : "<a class=\"nav-link\" href=\"?lng=en\">EN</a>",
+
+    "Design · Development · Seo" : "Design · Development · Seo",
+    "Supporting businesses with modern" : "Supportiamo le imprese attraverso",
+    "Design and Development" : "Design e Development",
+    "Contact Us" : "Contattaci",
+    "Pricing" : "Listino",
+    "a mockup of a website on computer desktop and phone" : "Una simulazione di un sito web su computer desktop e telefono",
+
+
+    "What We Do" : "Cosa Facciamo",
+
+    "We specialize in small business web design and development for a better customer experience and a more impactful online presence. We don't rely on page builders or WordPress, we ensure optimal performance by handcrafting websites, which helps brings traffic and revenue to your business." : "Ci specializziamo nella progettazione e nello sviluppo di siti web per piccole imprese al fine di offrire una migliore esperienza per il cliente e una presenza online più efficace. Non ci affidiamo a page builders o a WordPress, ma garantiamo prestazioni ottimali realizzando siti web con linguaggi di programmazione, il che aiuta a generare traffico e ricavi per la tua impresa.",
+
+
+    "Hand Coded" : "Progammato da 0",
+
+    "We use HTML, CSS, and JavaScript to hand code every component of your website. This process ensures that each element is custom-built to your specifications, resulting in a unique and high-performing website with a Google Page Speed Score 90+." : "Utilizziamo HTML, CSS e JavaScript per programmare ogni componente del tuo sito web. Questo processo garantisce che ogni elemento sia realizzato su misuras, risultando in un sito web unico e performante con un punteggio di Google Page Speed superiore al 90.",
+
+
+    "Fully Responsive": "Design Adattabile",
+
+    "Our websites are fully responsive, meaning they automatically adjust their layout and content to fit the screen size of any device, whether it's a smartphone, tablet, or desktop computer. This ensures that your website looks great regardless of the device used.": "I nostri siti web sono completamente responsivi, il che significa che si adattano automaticamente al layout e ai contenuti delle dimensioni dello schermo di qualsiasi dispositivo, che si tratti di smartphone, tablet o computer desktop. Questo garantisce che il tuo sito web sia sempre ottimale, indipendentemente dal dispositivo utilizzato.",
+
+
+    "Personalized Design" : "Personalizzato",
+
+    "Our approach involves creating personalized and modern designs that resonate with your brand's personality and goals to ensure a unique online presence that engages and simplifies the user experience." : "Il nostro approccio prevede la creazione di design personalizzati e moderni che rispecchiano la personalità e gli obiettivi del tuo brand, garantendo così una presenza online unica che coinvolge e semplifica l'esperienza del consumatore.",
+
+
+    "Our Pricing" : "Listino",
+
+    "Monthly" : "Mensile",
+    "CAD / Month" : "CAD / Mese",
+    "Up to <strong class=\"primary-text\">5 Pages</strong>" : "Fino a <strong class=\"primary-text\">5 Pagine</strong>",
+    "Unlimited <strong class=\"primary-text\">Edits</strong>" : "<strong class=\"primary-text\">Edits</strong> Illimitati",
+    "<strong class=\"primary-text\">Maintenance</strong>" : "<strong class=\"primary-text\">Manutenzione</strong>",
+    "<strong class=\"primary-text\">Hosting</strong>" : "<strong class=\"primary-text\">Hosting</strong>",
+
+
+    "Lump Sum" : "Unico",
+    "CAD" : "CAD",
+
+
+    "Hourly" : "Orario",
+    "CAD / Hour" : "CAD / Ora",
+    "<strong class=\"primary-text\">Added </strong>Features" :   "Funzionalità <strong class=\"primary-text\">Aggiunte</strong>",
+    "Project <strong class=\"primary-text\">Modifications</strong>" : "<strong class=\"primary-text\">Modifiche</strong> di Progetto",
+    "<strong class=\"primary-text\">Consultation </strong>Services" : "<strong class=\"primary-text\">Consultazione</strong>",
+    "<strong class=\"primary-text\">SEO</strong> Optimization" : "Ottimizzazione <strong class=\"primary-text\">SEO</strong>",
+
+
+    "Business Name / Full name" : "Nome Aziendale / Nome Completo",
+    "Email address" : "Indirizzo Email",
+    "Phone number" : "Numbero di Telefono",
+    "Message" : "Messaggio",
+    "Submit" : "Invia",
+
+
+    "Our Recent Projects" : "Progetti Recenti",
+    "img-project-alt" : "img-project-alt",
+    "Let's build something together" : "Let's build something together"
+}

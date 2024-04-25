@@ -3,7 +3,7 @@
   "Info": "Info",
   "Projects": "Projets",
   "Contact": "Contact",
-  "<a class=\"nav-link\" draggable=\"true\" href=\"http://127.0.0.1:5500/index.html?lng=fr\">FR</a>" : "<a class=\"nav-link\" href=\"?lng=en\">EN</a>",
+  "<a class=\"nav-link\" draggable=\"true\" href=\"http://mtlwebdesigns.com?lng=fr\">FR</a>" : "<a class=\"nav-link\" href=\"?lng=en\">EN</a>",
 
 
   "Design · Development · Seo" : "Design · Développement · Seo",
@@ -11,7 +11,7 @@
   "Design and Development": "Design et Développement",
   "Contact Us": "Contactez-Nous",
   "Pricing": "Tarifs",
-  "main-image-alt": "texte alternatif de l'image principale",
+  "a mockup of a website on computer desktop and phone": "Une maquette d'un site web sur un ordinateur de bureau et un téléphone portable.",
 
 
   "What We Do": "À Propos de Nous",
@@ -24,12 +24,12 @@
   "We use HTML, CSS, and JavaScript to hand code every component of your website. This process ensures that each element is custom-built to your specifications, resulting in a unique and high-performing website with a Google Page Speed Score 90+.": "Nous utilisons HTML, CSS et JavaScript pour coder manuellement chaque composant de votre site Web. Ce processus garantit que chaque élément est construit sur mesure selon vos spécifications, ce qui se traduit par un site Web unique et performant avec un score de vitesse de page Google de 90+.",
 
 
-  "Fully Responsive": "Entièrement Adaptatif",
+  "Fully Responsive": "Adaptatif",
 
   "Our websites are fully responsive, meaning they automatically adjust their layout and content to fit the screen size of any device, whether it's a smartphone, tablet, or desktop computer. This ensures that your website looks great regardless of the device used.": "Nos sites Web sont entièrement adaptatifs, ce qui signifie qu'ils ajustent automatiquement leur mise en page et leur contenu pour s'adapter à la taille de l'écran de n'importe quel appareil, que ce soit un smartphone, une tablette ou un ordinateur de bureau. Cela garantit que votre site Web ait toujours fière allure, quel que soit l'appareil utilisé.",
 
 
-  "Personalized Design": "Design Personnalisée",
+  "Personalized Design": "Design Unique",
 
   "Our approach involves creating personalized and modern designs that resonate with your brand's personality and goals to ensure a unique online presence that engages and simplifies the user experience.": "Notre approche consiste à créer des designs personnalisés et modernes qui résonnent avec la personnalité et les objectifs de votre marque afin de garantir une présence en ligne unique qui engage et simplifie l'expérience utilisateur.",
 
@@ -37,7 +37,6 @@
   "Our Pricing": "Nos Tarifs",
 
   "Monthly": "Mensuel",
-  "$130": "130 $",
   "CAD / Month": "CAD / Mois",
   "Up to <strong class=\"primary-text\">5 Pages</strong>": "Jusqu'à <strong class=\"primary-text\">5 pages</strong>",
   "Unlimited <strong class=\"primary-text\">Edits</strong>": "<strong class=\"primary-text\">Modifications</strong> illimitées",
@@ -46,12 +45,10 @@
 
 
   "Lump Sum": "Unique",
-  "$1500": "$1500",
   "CAD": "CAD",
 
 
   "Hourly": "À l'Heure",
-  "$30": "$30",
   "CAD / Hour": "CAD / Heure",
   "<strong class=\"primary-text\">Added </strong>Features": "<strong class=\"primary-text\">Fonctionnalités </strong>Ajoutées",
   "Project <strong class=\"primary-text\">Modifications</strong>": "<strong class=\"primary-text\">Modifications </strong>du projet",
