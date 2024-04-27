@@ -15,33 +15,10 @@
 /* //////////////////////////////// */
 /* MY CHANGES */
 /* //////////////////////////////// */
-li{
-  list-style-type: none;
-}
 
-
-.card-max-width{
-  max-width: 500px;
-}
-
-/*  BACKGROUNDS */
-.bg-primary-clr{
-  background-color: #5647b3	;
-}
-
-.svg-animations{
-  height: 5rem;
-  margin-bottom: 1rem;
-}
-
-main{
-  background-color: #ffffff;
-  background-image: url(../assets/blob-scatter-haikei-mobile.svg);
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-}
-
+/* //////////////////////////////// */
+/* MEDIA QUERIES */
+/* //////////////////////////////// */
 @media (min-width: 576px){
   .svg-animations {
     height: 6rem;
@@ -72,6 +49,37 @@ main{
     background-position: center;
   }
 }
+
+
+
+
+li{
+  list-style-type: none;
+}
+
+
+.card-max-width{
+  max-width: 500px;
+}
+
+/*  BACKGROUNDS */
+.bg-primary-clr{
+  background-color: #5647b3	;
+}
+
+.svg-animations{
+  height: 5rem;
+  margin-bottom: 1rem;
+}
+
+main{
+  background-color: #ffffff;
+  background-image: url(../assets/blob-scatter-haikei-mobile.svg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
 
 /* BUTTONS */
 :root{
