@@ -15,7 +15,6 @@
 /* //////////////////////////////// */
 /* MY CHANGES */
 /* //////////////////////////////// */
-
 .max{
   max-height: 100%;
 }
@@ -25,9 +24,6 @@
 @media (min-width: 576px){
   .svg-animations {
     height: 6rem;
-  }
-  .profile-img{
-    content: url(/assets/test.png);
   }
 }
 
