@@ -26,6 +26,9 @@
   .svg-animations {
     height: 6rem;
   }
+  .profile-img{
+    content: url(/assets/test.png);
+  }
 }
 
 @media (min-width: 768px){
