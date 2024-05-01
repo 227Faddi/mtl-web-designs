@@ -1,10 +1,7 @@
 # 🌟 MTL Web Designs
 Web Development Agency focused on providing responsive websites to small businesses, and helping grow their online presence. Providing simple, effective, and fully functional websites at affordable prices.
 
-**Link to project:** http://mtlwebdesigns.com/
-
-
-**Link to project:** http://mtlwebdesigns.com/
+**Live:** http://mtlwebdesigns.com/
 
 ![alt tag](assets/landing.webp)
 
