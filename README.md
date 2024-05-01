@@ -5,14 +5,11 @@ Web Development Agency focused on providing responsive websites to small busines
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Bootstrap.
-
-Started from a Bootstrap template and integrated i18n using [i18nextify](https://github.com/i18next/i18nextify/tree/master) 
+**Tech used:** HTML, CSS, JavaScript, Bootstrap, [i18nextify](https://github.com/i18next/i18nextify/tree/master).
 
 ## Optimizations
 
-Using [i18nextify](https://github.com/i18next/i18nextify/tree/master) made the internalization faster and more maintainable without requiring any back-end application or using multiple html files
-
+Using [i18nextify](https://github.com/i18next/i18nextify/tree/master) made the internalization faster and more maintainable without requiring more complex solutions
 ## Lessons Learned:
 
 This project is helping me learn more about design, making things work faster, and making websites look better. I'm getting better at what I know, and I'm finding new tools to help me do even better.
