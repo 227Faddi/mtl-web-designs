@@ -37,10 +37,10 @@
 
     "Monthly" : "Monthly",
     "CAD / Month" : "CAD / Month",
-    "Up to <strong class=\"primary-text\">5 Pages</strong>" : "Up to <strong class=\"primary-text\">5 Pages</strong>",
-    "Unlimited <strong class=\"primary-text\">Edits</strong>" : "Unlimited <strong class=\"primary-text\">Edits</strong>",
-    "<strong class=\"primary-text\">Maintenance</strong>" : "<strong class=\"primary-text\">Maintenance</strong>",
-    "<strong class=\"primary-text\">Hosting</strong>" : "<strong class=\"primary-text\">Hosting</strong>",
+    "Up to <strong class=\"text-white\">5 Pages</strong>" : "Up to <strong class=\"text-white\">5 Pages</strong>",
+    "Unlimited <strong class=\"text-white\">Edits</strong>" : "Unlimited <strong class=\"text-white\">Edits</strong>",
+    "<strong class=\"text-white\">Maintenance</strong>" : "<strong class=\"text-white\">Maintenance</strong>",
+    "<strong class=\"text-white\">Hosting</strong>" : "<strong class=\"text-white\">Hosting</strong>",
 
 
     "Lump Sum" : "Lump Sum",
@@ -49,10 +49,10 @@
 
     "Hourly" : "Hourly",
     "CAD / Hour" : "CAD / Hour",
-    "<strong class=\"primary-text\">Added </strong>Features" :   "<strong class=\"primary-text\">Added </strong>Features",
-    "Project <strong class=\"primary-text\">Modifications</strong>" : "Project <strong class=\"primary-text\">Modifications</strong>",
-    "<strong class=\"primary-text\">Consultation </strong>Services" : "<strong class=\"primary-text\">Consultation </strong>Services",
-    "<strong class=\"primary-text\">SEO</strong> Optimization" : "<strong class=\"primary-text\">SEO</strong> Optimization",
+    "<strong class=\"text-white\">Added </strong>Features" :   "<strong class=\"text-white\">Added </strong>Features",
+    "Project <strong class=\"text-white\">Modifications</strong>" : "Project <strong class=\"text-white\">Modifications</strong>",
+    "<strong class=\"text-white\">Consultation </strong>Services" : "<strong class=\"text-white\">Consultation </strong>Services",
+    "<strong class=\"text-white\">SEO</strong> Optimization" : "<strong class=\"text-white\">SEO</strong> Optimization",
 
 
     "Business Name / Full name" : "Business Name / Full name",
