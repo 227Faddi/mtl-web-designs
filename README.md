@@ -1,19 +1,16 @@
-# 🌟 MTL Web Designs
-Web Development Agency focused on providing responsive websites to small businesses, and helping grow their online presence. Providing simple, effective, and fully functional websites at affordable prices.
+# 🌟 MTL Web Designs : [Visit Here](http://mtlwebdesigns.com/)
 
-**Live:** http://mtlwebdesigns.com/
+MTL Web Designs is my web development agency dedicated to creating responsive websites for small businesses, aimed at boosting their online presence with straightforward, effective, and fully functional designs. The site is multilingual, supporting  content in English, French, and Italian languages.
 
-![alt tag](assets/landing.webp)
+![alt tag](assets/preview.gif)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, Bootstrap, [i18nextify](https://github.com/i18next/i18nextify/tree/master).
 
 ## Optimizations
+Using [i18nextify](https://github.com/i18next/i18nextify/tree/master) made the internalization faster and more maintainable without requiring more complex solutions.
 
-Using [i18nextify](https://github.com/i18next/i18nextify/tree/master) made the internalization faster and more maintainable without requiring more complex solutions
 ## Lessons Learned:
+Working on this project has been instrumental in expanding my design skills, optimizing performance, and enhancing website aesthetics. It has also enriched my technical proficiency and introduced me to new tools that facilitate superior outcomes. Beyond technical aspects, I've gained insights into satisfying clients, designing visually appealing interfaces, and accommodating diverse client requirements effectively.
 
-This project is helping me learn more about design, making things work faster, and making websites look better. I'm getting better at what I know, and I'm finding new tools to help me do even better.
-
-I'm not just learning about the technical stuff; I'm also figuring out how to make customers happy, design things that look good, and handle different clients' needs.
