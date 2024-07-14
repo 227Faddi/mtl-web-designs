@@ -13,4 +13,3 @@ Using [i18nextify](https://github.com/i18next/i18nextify/tree/master) made the i
 
 ## Lessons Learned:
 Working on this project has been instrumental in expanding my design skills, optimizing performance, and enhancing website aesthetics. It has also enriched my technical proficiency and introduced me to new tools that facilitate superior outcomes. Beyond technical aspects, I've gained insights into satisfying clients, designing visually appealing interfaces, and accommodating diverse client requirements effectively.
-
